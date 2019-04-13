@@ -10,3 +10,10 @@
 
 
 我也会收集一些别的人总结 放入此仓库中 以供更简便的理解
+
+
+
+[预先查看](https://catlikecoding.com/unity/tutorials/scriptable-render-pipeline/) 会帮助你更好的懂此代码
+
+1.每个物体最多只受4个附加灯光影响
+...
